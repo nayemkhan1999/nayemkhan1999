@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.ibb.co/vD2g6Kx/1.jpg" alt="Banner Image">
+    <img src="https://i.ibb.co/9cZCfXz/Git-Hub-Banner.png" alt="Banner Image">
 </div>
 
 <div>
@@ -27,13 +27,13 @@
 
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
-<div>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemkhan1999&layout=compact&theme=github_dark">
-  <br/>
+<div align="center">
+ 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemkhan1999&theme=dark" alt="GitHub Stats">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nayemkhan1999&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
+   <br/>
+    <img width="65%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemkhan1999&layout=compact&theme=github_dark">
 </div>
-
 <br/>
 
 <!--
