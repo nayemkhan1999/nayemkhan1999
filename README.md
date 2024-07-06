@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.ibb.co/fxryqnm/Git-Hub-Banner2.png" alt="Banner Image">
+    <img src="https://i.ibb.co/vzQ1xjn/Shared-Banner.jpg" alt="Banner Image">
 </div>
 
 <div>
@@ -13,7 +13,7 @@
 <div>
 <h4 align="left">A passionate Front-End Web Developer from Bangladesh</h4>
 <p>
-  I'm a Front-End Web Developer, based in Dhaka, Bangladesh.  Currently, I'm study on bachelor of arts in islamic history & culturee. I'm expert in HTML5, CSS3, Tailwind CSS, Javascript,  React JS, Next JS and more.
+ My name is Nayem. And I am currently doing honor’s in Islamic History & Culture but I was interested about web developer so I recently completed my front end development course from programming hero..  I have developed a strong background in HTML5, CSS3, Tailwind CSS, JavaScript, React.JS, Next.JS and more also and have successfully some project .I am confident that my expertise to front end developer can contribute significantly any team....
 </p>  
 </div>
 
